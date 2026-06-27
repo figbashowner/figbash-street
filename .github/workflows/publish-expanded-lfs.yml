@@ -1,0 +1,47 @@
+name: Publish expanded LFS assets
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-expanded-lfs-assets
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
+
+      - name: Expand LFS files
+        run: |
+          git lfs pull
+          git lfs checkout
+
+      - name: Stage GitHub Pages payload
+        run: |
+          rm -rf _site
+          mkdir -p _site
+          cp README.md catalog.json _site/
+          cp -R blender_source_files _site/
+          cp -R stls _site/
+          touch _site/.nojekyll
+
+      - name: Publish to gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: _site
+          force_orphan: true
+          commit_message: Publish expanded LFS assets
