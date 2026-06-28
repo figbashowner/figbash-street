@@ -35,7 +35,7 @@ jobs:
           rm .gitattributes;
           rm -rf _site
           mkdir -p _site
-          cp README.md catalog.json _site/
+          cp README.md _site/
           cp -R blender_source_files _site/
           mv stls/* _site/
           touch _site/.nojekyll
