@@ -37,7 +37,7 @@ jobs:
           mkdir -p _site
           cp README.md catalog.json _site/
           cp -R blender_source_files _site/
-          cp -R stls _site/
+          mv stls/* _site/
           touch _site/.nojekyll
 
       - name: Publish to gh-pages
