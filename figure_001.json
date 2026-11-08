@@ -1,0 +1,83 @@
+{
+    "children": [
+        {
+            "FullPath": "base.stl",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\200.head\\290.misc\\291.dimpled_chin.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\200.head\\250.facial_hair\\251.beard\\251.beard.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\200.head\\230.hats\\231.baseball_hats\\231.baseball_hat_straight_backward.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\400.legs\\430.shorts\\431.tight_shorts.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\340.chest_male\\342.casual\\342.muscles.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\340.chest_male\\348.accessories\\348.necktie\\348.necktie_knot.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\340.chest_male\\345.jackets\\345.gamer_jacket_lapels.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\340.chest_male\\348.accessories\\348.necktie\\348.necktie_superwide.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\320.collars\\321.casual_shirt_collars\\321.tshirt_collar.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\200.head\\240.hair\\243.long_hair\\243.80s_action_hero.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\340.chest_male\\345.jackets\\345.lab_coat_lapels.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\340.chest_male\\348.accessories\\348.necktie\\348.necktie_narrow.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\380.accessories\\383.pelvis\\383.side_belt_pouch.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\320.collars\\322.dress_shirt_collars\\322.collar_buttoned.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        },
+        {
+            "FullPath": "C:\\Users\\User\\Desktop\\figbash-street\\stls\\300.torso\\320.collars\\321.casual_shirt_collars\\321.collar_open.stl",
+            "RepositorySource": "C:\\Users\\User\\Desktop\\figbash-street",
+            "IsImport": false
+        }
+    ]
+}
